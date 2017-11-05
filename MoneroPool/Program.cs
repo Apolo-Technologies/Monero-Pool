@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 using StackExchange.Redis;
 
 
-namespace MoneroPool
+namespace ZeriumPool
 {
     internal class Program
     {

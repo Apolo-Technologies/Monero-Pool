@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MoneroPool
+namespace ZeriumPool
 {
     public static class NativeFunctions
     {

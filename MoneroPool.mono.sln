@@ -1,8 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneroPool", "MoneroPool\MoneroPool.mono.csproj", "{5D248243-A20D-4534-9705-7D101217AC8C}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeriumPool.mono", "MoneroPool\ZeriumPool.mono.csproj", "{5D248243-A20D-4534-9705-7D101217AC8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Net", "Mono.HttpListener\Mono.Net.csproj", "{7B97F37A-2FA5-4321-8A5D-B377AD957662}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerium.Net", "Mono.HttpListener\Zerium.Net.csproj", "{7B97F37A-2FA5-4321-8A5D-B377AD957662}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,5 +47,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37CA5FEC-23F9-4B0E-B366-FB909EC39333}
 	EndGlobalSection
 EndGlobal

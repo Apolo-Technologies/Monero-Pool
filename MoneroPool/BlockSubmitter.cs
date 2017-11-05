@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 
-namespace MoneroPool
+namespace ZeriumPool
 {
     public class BlockSubmitter
     {

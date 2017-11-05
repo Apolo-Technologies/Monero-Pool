@@ -10,7 +10,7 @@ using Newtonsoft.Json.Linq;
 using System.Numerics;
 using StackExchange.Redis;
 
-namespace MoneroPool
+namespace ZeriumPool
 {
     public static class Hash
     {

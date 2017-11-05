@@ -8,7 +8,7 @@ using StackExchange.Redis;
 using Newtonsoft.Json;
 using System.Reflection;
 
-namespace MoneroPool
+namespace ZeriumPool
 {
     public class RedisPoolDatabase
     {
